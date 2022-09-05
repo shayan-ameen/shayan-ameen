@@ -10,7 +10,7 @@ I am a full-stack web developer, specializing mostly in JavaScript with an ambit
 * 🖥️  See my [Portfolio](http://shayan.ameen.dev)
 * ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayan-ameen-5a9527243)
 * ✉️  You can contact me at [shayan.ameen.00@gmail.com](mailto:shayan.ameen.00@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborate on interesting projects
 
 ### Skills
 
