@@ -8,10 +8,10 @@ I am a full-stack web developer, specializing mostly in JavaScript with an ambit
 
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my portfolio at [MyPortfolio](http://shayan.ameen.dev)
+* ⚡  See my profile at [LinkedIn]([https://www.linkedin.com/in/shayan-ameen-5a9527243)
 * ✉️  You can contact me at [shayan.ameen.00@gmail.com](mailto:shayan.ameen.00@gmail.com)
-* 🧠  I'm learning Node
+* 🧠  I'm currently learning Node.js
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretely Spiderman... but don't tell anyone
 
 ### Skills
 
